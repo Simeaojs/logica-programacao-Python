@@ -1,4 +1,5 @@
 
+
 quantiA = 0
 
 for c in range(5):
