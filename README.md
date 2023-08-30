@@ -1,2 +1,5 @@
-# Aulas lógica programação
- Repositorio feito pelo app Desktop.Contendo Questões da Apostila do Treina Recife!
+# Lógica de programação com Python
+
+ Repositorio contendo questões da Apostila do Treina Recife!
+
+ 
